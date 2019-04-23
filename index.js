@@ -11,7 +11,7 @@ function printBadges(people) {
 
 printBadges(people);
 
-tailsNeverFails() {
+function tailsNeverFails() {
 function coinResult() {
   return Math.random() >= 0.5;
 }
